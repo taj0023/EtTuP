@@ -25,6 +25,6 @@ ___
 Usage:
 ```bash
 git clone https://github.com/taj0023/EtTuP.git
-cd EtTuZ
+cd EtTuP
 python3 ettup.py 
 ```
