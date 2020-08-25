@@ -22,7 +22,7 @@ ___
 
 
 ___
-Usage:
+### Usage:
 ```bash
 git clone https://github.com/taj0023/EtTuP.git
 cd EtTuP
