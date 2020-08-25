@@ -26,5 +26,6 @@ Usage:
 ```bash
 git clone https://github.com/taj0023/EtTuP.git
 cd EtTuP
+pip3 install -r requirements.txt
 python3 ettup.py 
 ```
