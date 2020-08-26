@@ -15,6 +15,7 @@ ___
     * Color highlighting.
     * Simple to use.
     * Simple to pronounce. (pronounced as 'A to P')
+    * This tool uses pikepdf module which is superior to other modules in python.
 * Cons:
     * No Autotab completion. (For now.)
     * The name is hard to write.(no problem if ur using zsh)
