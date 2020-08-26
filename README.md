@@ -19,7 +19,10 @@ ___
     * No Autotab completion. (For now.)
     * The name is hard to write.(no problem if ur using zsh)
 
-
+___
+### Screenshots
+![Imgur](https://i.imgur.com/QjNYFNn.png)
+![Imgur](https://i.imgur.com/bOui2Vl.png)
 
 ___
 ### Usage:
