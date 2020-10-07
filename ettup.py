@@ -1,10 +1,12 @@
+#!/usr/bin/env python3
 import pikepdf
+import sys
 
-pdffile = input("\033[96mEnter the name/path of PDF file:\033[0m ")
+pdffile = input("\033[96mEnter the name/path of PDF file  :\033[0m ")
 passwordlist = input("\033[96mEnter the name/path of Dictionary: \033[0m")
 
 
-with open(passwordlist,'r') as passlist:
+with open(passwordlist) as passlist:
 	passlist = [password for password in passlist.read().split('\n') if password]
 	for passwd in passlist:
 		try:
