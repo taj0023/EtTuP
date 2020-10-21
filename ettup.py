@@ -2,8 +2,13 @@
 import pikepdf
 import sys
 
-pdffile = input("\033[96mEnter the name/path of PDF file  :\033[0m ")
-passwordlist = input("\033[96mEnter the name/path of Dictionary: \033[0m")
+if len(sys.argv) == 1 or '-h' in sys.argv:
+	print('Usage: "python3 ettup.py <file> <wordlist>"')
+	sys.exit()
+
+
+pdffile = sys.argv[1]
+passwordlist = sys.argv[2]
 
 
 with open(passwordlist) as passlist:
