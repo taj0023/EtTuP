@@ -21,7 +21,7 @@ ___
 
 ___
 ### Screenshots
-![Imgur](https://i.imgur.com/xrLGt5P.png)
+![Imgur](https://i.imgur.com/VjAyQQB.png)
 
 ___
 ### Usage:
