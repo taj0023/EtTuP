@@ -17,13 +17,11 @@ ___
     * Simple to pronounce. (pronounced as 'A to P')
     * This tool uses pikepdf module which is superior to other modules in python.
 * Cons:
-    * No Autotab completion. (For now.)
     * The name is hard to write.(no problem if ur using zsh)
 
 ___
 ### Screenshots
-![Imgur](https://i.imgur.com/QjNYFNn.png)
-![Imgur](https://i.imgur.com/bOui2Vl.png)
+![Imgur](https://i.imgur.com/xrLGt5P.png)
 
 ___
 ### Usage:
@@ -31,5 +29,5 @@ ___
 git clone https://github.com/taj0023/EtTuP.git
 cd EtTuP
 pip3 install -r requirements.txt
-python3 ettup.py 
+python3 ettup.py <file> <wordlist>
 ```
